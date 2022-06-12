@@ -1,0 +1,4 @@
+QSAPIkey.txt
+testpy.py
+testpy2.py
+testjson.json
